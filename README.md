@@ -11,4 +11,7 @@ Here is the official guide:
 
 ## connect to MongoDB
 1. [MongoDB Java Drivers](https://mongodb.github.io/mongo-java-driver/)
-2. [Connect to MongoDB](https://mongodb.github.io/mongo-java-driver/3.12/driver/tutorials/connect-to-mongodb/)  
+2. [Connect to MongoDB](https://mongodb.github.io/mongo-java-driver/3.12/driver/tutorials/connect-to-mongodb/)
+
+## Run
+If you want to connect to your MongoDB, you need to enter your MongoDB username and password from the input arguments and change db name in the code.  
