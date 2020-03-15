@@ -1,10 +1,14 @@
 # ConnectMongoDB
-ConnectMongoDB
+Here is the simple example connecting to your MongoDB cloud.
 
-## Insert document via CompassUI
-https://university.mongodb.com/mercury/M001/2020_March_10/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361bf/lecture
-http://docs.mongodb.com/compass/master/documents/insert/
+Before you follow this example, you need to have basic knowledge for MongoDB. 
+
+Here is the official guide:  
+[university.mongodb.com](university.mongodb.com)
+
+## Insert document via CompassUI  
+1. [Insert Documents](http://docs.mongodb.com/compass/master/documents/insert/)
 
 ## connect to MongoDB
-https://mongodb.github.io/mongo-java-driver/
-https://mongodb.github.io/mongo-java-driver/3.12/driver/tutorials/connect-to-mongodb/
+1. [MongoDB Java Drivers](https://mongodb.github.io/mongo-java-driver/)
+2. [Connect to MongoDB](https://mongodb.github.io/mongo-java-driver/3.12/driver/tutorials/connect-to-mongodb/)  
